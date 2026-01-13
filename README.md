@@ -1,4 +1,4 @@
-#ChildCare Application Project
+#ChildCare Application Project: 
 This is a responsive child care application form using HTML, CSS, and JavaScript to perform basic arithmetic operations.
 
 #How to run on Windows.
